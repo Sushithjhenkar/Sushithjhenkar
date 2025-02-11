@@ -44,7 +44,7 @@ Explore more projects in my [Repositories](https://github.com/SushithJhenkar?tab
 ## 📫 Get in Touch
 - **Email**: sshivanandaj2023@fau.edu  
 - **LinkedIn**: [linkedin.com/in/sushithjhenkar](https://linkedin.com/in/sushithjhenkar)  
-- **Portfolio**: [sushithjhenkar.github.io](https://sushithjhenkar.github.io)  
+- **Portfolio**: [sushith.pages.dev](https://sushith.pages.dev)  
 
 ---
 
