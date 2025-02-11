@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Sushith Shivananda Jhenkar
+# 👋 Hi,
+# I'm Sushith Shivananda Jhenkar
 
 Welcome to my GitHub profile! I'm a **Master's student in Computer Science** at **Florida Atlantic University**, passionate about **Machine Learning**, **Cloud Computing**, and **Software Development**. I thrive on building scalable, user-focused solutions and constantly exploring cutting-edge technologies.
 
